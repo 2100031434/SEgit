@@ -1,0 +1,3 @@
+Hi I am trying to learn git...
+First I used mkdir and git clone of my global/central repository
+Second I created a text file and I will commit the this file.
